@@ -1,2 +1,4 @@
 # Csv_Filemaniliputaion_Python
-A script which loads a csv file renames its columns , split a column into two column, also concatenate with another csv fie. basic uses of pandas is used here. 
+Load Json from a url, pass it to a dataframe , changes is structure and rearrange it, and concates it to another csv and load the new data to a new csv. 
+
+Most Basic usage of pandas package. 
